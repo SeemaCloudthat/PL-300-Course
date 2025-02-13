@@ -15,7 +15,7 @@
  <tbody> 
     <tr>
       <td>Course Link</td>
-      <td><a href="https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/Instructions/Labs/00-setup.html">Set up your own environment</a></td>
+      <td><a href="https://learn.microsoft.com/en-us/training/courses/pl-300t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=4428290&DCS=DEPR2520491#study-guide">Course Link </a></td>
     </tr>
  </tbody>  
 </table>
