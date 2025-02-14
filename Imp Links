@@ -1,0 +1,15 @@
+Usually, in order for you to change your screen resolution or the screen resolution of the VM(s), it can be solved by following the steps below:
+
+1.	Right-click on your desktop and click Screen Resolution.
+2.	If Screen Resolution is not available, click Personalize,
+3.	Click Display and Adjust Resolution.
+4.	On the Screen Resolution page, click the drop-down for Resolution and slide the bar to the resolution wanted.
+5.	Click Apply and in the Display Settings message,
+6.	Click Keep Changes.
+7.	Close the Screen Resolution window.
+
+
+DAX:https://learn.microsoft.com/en-us/dax/format-function-dax
+https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-roles-new-workspaces
+https://microsoftlearning.github.io/PL-300-Microsoft-Power-BI-Data-Analyst/
+https://learn.microsoft.com/en-us/power-bi/consumer/end-user-license
